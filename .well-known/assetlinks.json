@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nicosmos.voidwars",
+      "sha256_cert_fingerprints": ["43:0D:BB:15:AF:55:37:2C:62:97:21:4E:4D:E2:95:1E:D4:D8:55:B2:24:A7:C1:1A:76:85:E7:58:4C:1C:D3:63"]
+    }
+  }
+]
